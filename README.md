@@ -22,7 +22,7 @@ The expansion board provides three kinds of communication interfaces: IIC, SPI, 
 
 # Required Best Buy Links
 
-[By on Yahboom website](https://category.yahboom.net/products/microbit-expansion-board)
+[By on Yahboom website](https://category.yahboom.net/products/bitbot)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
