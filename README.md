@@ -32,13 +32,7 @@ https://www.facebook.com/yahboomcar/
   
 https://www.facebook.com/yahboomtech
 ### WhatsApp:
-+86 15818515042
-
 +86 18682378128
-### Skype:  
-sales_79883
-
-Dolphin2448534184@gmail.com 
 ### Technical support email: 
-market@yahboom.com
+support@yahboom.com
 
