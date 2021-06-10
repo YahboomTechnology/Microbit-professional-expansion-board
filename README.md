@@ -20,9 +20,6 @@ The expansion board provides three kinds of communication interfaces: IIC, SPI, 
 * Provide a multi-function  App
 * Graphical programming
 
-# Required Best Buy Links
-
-[By on Yahboom website](https://category.yahboom.net/products/bitbot)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
